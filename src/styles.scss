@@ -2,11 +2,12 @@
 // @import '/node_modules/modern-normalize/modern-normalize.css';
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100;200;400&display=swap');
 // @import '/node_modules/primeflex/primeflex.css';
-
+@import "primeicons/primeicons.css";
 
 body{
     font-family: 'Noto Sans Arabic', sans-serif;
     font-weight: 400;
+    font-size: 14px;
    
 }
 h1{ 
