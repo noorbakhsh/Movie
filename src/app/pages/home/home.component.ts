@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { SliderComponent } from "../../components/slider/slider.component";
 
+
 @Component({
     selector: 'app-home',
     standalone: true,
